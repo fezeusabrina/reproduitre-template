@@ -1,0 +1,181 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background: #CECECE;
+}
+.header1{
+	height: 100px;
+	margin-top: 20px;
+	border-radius: 2px;
+	background: #555B61;
+	display: flex;
+	justify-content: space-between;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.header1 ul{
+	list-style-type: none;
+	margin: auto 5px;
+}
+
+.header1 li{
+	margin: 20px;
+	display: inline;
+}
+
+.header1 ul li{
+	color: white;
+	text-decoration: none;
+}
+
+.header1 ul .ko{
+	margin-right: 1070px;
+	
+}
+
+.header1 .ko{
+	font-size: 35px;
+}
+
+.header2{
+	background: #048B9A;
+	height: 40px;
+	display: flex;
+	justify-content: space-between;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.header2 ul{
+	margin:auto 5px;
+	list-style-type: none;
+}
+
+.header2 li{
+	display: inline;
+	margin: 25px;
+}
+
+.header2 ul li{
+	list-style-type: none;
+	color: white;
+}
+
+aside{
+	background: #CECECE;
+
+}
+
+.image{
+	margin-top: 20px;
+	margin-right: 100px;
+	margin-left: 50px;
+}
+
+article{
+	background: #fff;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.accueil{
+	margin-top: 30px;
+}
+
+.accueil ul{
+	margin: auto5px;
+	list-style-type: none;
+}
+
+.accueil li{
+	display: inline;
+	margin:50px;
+}
+
+.accueil ul .set{
+	font-size: 30px;
+	margin-right: 880px;
+}
+
+.accueil .wet{
+	font-size: 20px;
+}
+
+.right li{
+	margin-right: 76px;
+}
+
+.magnis{
+	margin-top: 20px;
+	display: inline;
+	display: flex;
+	justify-content: space-between;
+	margin-left: 50px;
+	margin-right: 45px;	
+	list-style-type: none;
+}
+
+.left li{
+	margin-top: 15px;
+	list-style-type: none;
+}
+
+strong{
+	text-decoration: underline;
+	color: #048B9A;
+}
+
+footer{
+	height: 200px;
+	border-radius: 2px;
+	background: #555B61;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.footer1 ul{
+	margin: auto 5px;
+	list-style-type: none;
+	padding-top: 25px;
+	margin-left: 30px;
+}
+
+.footer1 li{
+	display: inline;
+	margin: 30px;
+}
+
+.footer1 ul li{
+	color: white;
+	text-decoration: none;
+}
+
+.footer1 ul .si{
+	font-size: 20px;
+	margin-right: 1020px;
+}
+
+.footer1 ul .oui{
+	font-size: 20px;
+}
+
+.footer2{
+	margin-top: 20px;
+	display: inline;
+	display: flex;
+	justify-content: space-between;
+	margin-left: 50px;
+	margin-right: 45px;
+}
+
+hr{
+	margin-top: 5px;
+}
+
+.fin{
+	text-align: center;
+	margin-top: 30px;
+}
